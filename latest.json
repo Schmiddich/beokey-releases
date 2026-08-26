@@ -1,9 +1,9 @@
 {
-  "version": "0.1.2.0",
-  "releasedAt": "2026-08-26T12:55:00Z",
-  "url": "https://github.com/Schmiddich/beokey-releases/releases/download/v0.1.2/BeokeySetup-0.1.2.0.exe",
-  "sha256": "111c6dd1b3a018572fac7090ba0c71bc0ce04eac66f953b08cef1be04d91b876",
-  "sizeBytes": 5462307,
-  "notes": "Die Oberfläche schreibt jetzt Deutsch: 109 Texte mit echten Umlauten statt \"Loeschen\" und \"Diktatkuerzel\".\nDark-Theme folgt der Windows-Einstellung, statt immer weiß zu leuchten.\nLexikon und Textbausteine tragen ihren eigenen Seitentitel.\nDie Statuskarte wird im Fehlerfall rot.\nKein Markdown mehr im Diktat - Prompt und Nachbearbeitung.\nAPI-Schlüssel maskiert, mit Zeigen-Schalter.\nKopier-Quittung im Verlauf, Suchfeld mit Lupe und Platzhalter, Zeilenaktionen erst beim Überfahren.",
+  "version": "0.1.3.0",
+  "releasedAt": "2026-08-26T15:45:00Z",
+  "url": "https://github.com/Schmiddich/beokey-releases/releases/download/v0.1.3/BeokeySetup-0.1.3.0.exe",
+  "sha256": "e776fc8bae0added0909247778119b223c713d38927f3f1f07fb2b2a913c2b8d",
+  "sizeBytes": 5477029,
+  "notes": "Das Overlay blendet weich ein und aus - 180 ms hinein, 120 ms hinaus, ohne den Fokus anzufassen.\nDer Verlauf ist nach Tagen gruppiert (\"Heute\", \"Gestern\").\nSuchtreffer werden im Text hervorgehoben.\nDie Tastenkappe pulsiert rot, während sie auf ein neues Kürzel wartet.\nZu jedem API-Schlüssel gibt es jetzt einen Prüfstatus mit Zeitstempel und Endpunkt.\nAuf Lexikon und Textbausteinen stand der Leerzustand doppelt - jetzt nur noch einmal.",
   "minimumVersion": "0.1.0.0"
 }

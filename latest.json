@@ -2,8 +2,8 @@
   "version": "0.1.1.0",
   "releasedAt": "2026-08-26T10:45:00Z",
   "url": "https://github.com/Schmiddich/beokey-releases/releases/download/v0.1.1/BeokeySetup-0.1.1.0.exe",
-  "sha256": "ab8cef3a945606c5d573122305995af6ede25aa3dc64e6b471a0f18989ba9817",
-  "sizeBytes": 5456849,
-  "notes": "Update-Funktion nach ADR-005: Prüfung gegen latest.json, Zustimmung vor jedem Update, SHA-256-Prüfung vor dem Start.\nMarker am Infobereich-Symbol und Menüzeile im Kontextmenü.\nKarte \"Aktualisierung\" im Einstellungsbereich mit Änderungsliste.\nEin laufendes Diktat verhindert das Update, statt es abzuschneiden.",
+  "sha256": "b35dfc07fd1fb7096bc05f80d1e6f12678d27223845e2ef364b0706f8cb2d633",
+  "sizeBytes": 5458129,
+  "notes": "Update-Funktion nach ADR-005: Prüfung gegen latest.json, Zustimmung vor jedem Update, SHA-256-Prüfung vor dem Start.\nMarker am Infobereich-Symbol und Menüzeile im Kontextmenü.\nKarte \"Aktualisierung\" im Einstellungsbereich mit Änderungsliste.\nEin laufendes Diktat verhindert das Update, statt es abzuschneiden.\nAutostart aus dem Setup wird beim ersten Start korrekt übernommen.",
   "minimumVersion": "0.1.0.0"
 }

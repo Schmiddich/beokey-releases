@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0.0",
+  "releasedAt": "2026-08-26T08:10:35Z",
+  "url": "https://github.com/Schmiddich/beokey-releases/releases/download/v0.1.0/BeokeySetup-0.1.0.0.exe",
+  "sha256": "03f70905964478a7507cfc6d363f9fdb598ff937443d245b486ce1c79645e31b",
+  "sizeBytes": 5401221,
+  "notes": "Initiale öffentliche Beokey-Vorabversion.",
+  "minimumVersion": "0.1.0.0"
+}
